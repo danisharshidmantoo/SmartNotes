@@ -1,6 +1,6 @@
 # SmartNotes
 
-AI-powered note-taking web application.
+A full-stack AI-powered application that helps users create, organize, and summarize notes using modern web technologies and LLM APIs.
 
 ## Features
 - Create and manage notes
